@@ -2,6 +2,20 @@
 
 Software engineer passionate about building impactful solutions. Currently working in the industry, focusing on creating clean, efficient code that solves real-world problems. Constantly learning and exploring new technologies to expand my skillset. Open to collaboration on interesting projects that challenge me to grow as a developer.
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=TheophilusNdukwe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=TheophilusNdukwe&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/theophilus-ndukwe/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@theophilusisag) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TheophilusMostExcellent1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theondukwe@gmail.com)
@@ -19,10 +33,6 @@ Software engineer passionate about building impactful solutions. Currently worki
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=TheophilusNdukwe&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 
