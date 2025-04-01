@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Welcome, I'm Theophilus Ndukwe. A Software Engineer.
 
 Software engineer passionate about building impactful solutions. Currently working in the industry, focusing on creating clean, efficient code that solves real-world problems. Constantly learning and exploring new technologies to expand my skillset. Open to collaboration on interesting projects that challenge me to grow as a developer.
 
