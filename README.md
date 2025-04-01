@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Im currently working as a software engineer
+Software engineer passionate about building impactful solutions. Currently working in the industry, focusing on creating clean, efficient code that solves real-world problems. Constantly learning and exploring new technologies to expand my skillset. Open to collaboration on interesting projects that challenge me to grow as a developer.
 
 ## 🌐 Socials:
 
@@ -12,8 +12,8 @@ Im currently working as a software engineer
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=TheophilusNdukwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TheophilusNdukwe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TheophilusNdukwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=TheophilusNdukwe&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheophilusNdukwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
