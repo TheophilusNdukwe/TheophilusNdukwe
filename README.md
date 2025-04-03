@@ -1,12 +1,17 @@
 # 💫 Welcome, I'm Theophilus Ndukwe. A Software Engineer.
 
-Software engineer passionate about building impactful solutions. Currently working in the industry, focusing on creating clean, efficient code that solves real-world problems. Constantly learning and exploring new technologies to expand my skillset. Open to collaboration on interesting projects that challenge me to grow as a developer.
+I am excited about building impactful solutions. Currently focusing on creating clean, efficient code that solves real-world problems. I am constantly learning and exploring new technologies to expand my skillset. Open to collaboration on interesting projects that challenge me to grow as a developer.
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ A Constant Reminder!
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBtM2p0am52NzVkbHhpMXhpNnYzYTNvNWxkODRybzNobWxiampsdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/smW5FBep69d3q/giphy.gif)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=TheophilusNdukwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=TheophilusNdukwe&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheophilusNdukwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 # 💻 Tech Stack:
 
@@ -26,11 +31,6 @@ Software engineer passionate about building impactful solutions. Currently worki
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/theophilus-ndukwe/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@theophilusisag) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TheophilusMostExcellent1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theondukwe@gmail.com)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=TheophilusNdukwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=TheophilusNdukwe&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheophilusNdukwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
