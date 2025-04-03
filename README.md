@@ -11,7 +11,7 @@ I am excited about building impactful solutions. Currently focusing on creating 
 ![](https://github-readme-stats.vercel.app/api?username=TheophilusNdukwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=TheophilusNdukwe&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheophilusNdukwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-profile-trophy.vercel.app/?username=TheophilusNdukwe&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack:
 
@@ -32,9 +32,6 @@ I am excited about building impactful solutions. Currently focusing on creating 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/theophilus-ndukwe/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@theophilusisag) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TheophilusMostExcellent1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theondukwe@gmail.com)
 
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=TheophilusNdukwe&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 
