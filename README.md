@@ -6,9 +6,6 @@ I am excited about building impactful solutions. Currently focusing on creating 
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBtM2p0am52NzVkbHhpMXhpNnYzYTNvNWxkODRybzNobWxiampsdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/smW5FBep69d3q/giphy.gif)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheophilusNdukwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 # 💻 Tech Stack:
 
