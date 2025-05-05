@@ -8,7 +8,7 @@ I bring technical expertise and a human-centered approach to software developmen
 ## Im Most Excited About:
 🔭 I’m currently working on: Book gamification App that gamifies reading by treating books as experience points that increase your real-life characteristics or "stats".
 <br>Practicing algorithms through [Codewars](https://github.com/TheophilusNdukwe/On-The-Third-Day-Codewars)</br>
-<br>Building Full stack apps at theophilusbuilds.com<br>
+<br>Building Full stack apps at [theophilusbuilds.com](http://theophilusbuilds.com)<br>
 
 
 ### ✍️ Favorite Quotes
