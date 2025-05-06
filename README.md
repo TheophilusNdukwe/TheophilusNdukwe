@@ -6,7 +6,7 @@ I'm a full-stack software engineer currently learning and building through Resil
 I bring technical expertise and a human-centered approach to software development. Whether I'm crafting intuitive interfaces, resolving API issues, or collaborating with fellow engineers, I combine technical precision with genuine enthusiasm. My work is guided by a commitment to creating thoughtful technology that serves community needs and elevates user experiences.
 
 ## Im Most Excited About:
-🔭 I’m currently working on: Book gamification App that gamifies reading by treating books as experience points that increase your real-life characteristics or "stats".
+🔭 I’m currently working on: My Book gamification App that gamifies reading by treating books as experience points that increase your real-life characteristics or "stats".
 <br>Practicing algorithms through [Codewars](https://github.com/TheophilusNdukwe/On-The-Third-Day-Codewars)</br>
 <br>Building Full stack apps at [theophilusbuilds.com](http://theophilusbuilds.com)<br>
 
