@@ -1,9 +1,9 @@
 # Hey, I'm Theophilus
 
 ## 💫 About Me: 
-I'm a full-stack software engineer currently learning and building through Resilient Coders with a deep love for front-end development, design, and creative problem-solving.
+I'm a full-stack software engineer currently learning and building through Resilient Coders with a deep love for back-end development, data science, fintech and creative problem-solving.
 
-I bring technical expertise and a human-centered approach to software development. Whether I'm crafting intuitive interfaces, resolving API issues, or collaborating with fellow engineers, I combine technical precision with genuine enthusiasm. My work is guided by a commitment to creating thoughtful technology that serves community needs and elevates user experiences.
+My work is guided by a commitment to creating thoughtful technology that serves community needs and elevates user experiences.
 
 ## Im Most Excited About:
 🔭 I’m currently working on: My Book gamification App that gamifies reading by treating books as experience points that increase your real-life characteristics or "stats".
